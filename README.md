@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rafi Septian Hadi
 - 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @rafi_s_h on instagram
 
